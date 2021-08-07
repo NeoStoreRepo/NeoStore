@@ -1,0 +1,20 @@
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.7.1)
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Maintainer: NeoStore <golomgang@gmail.com>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Filename: ./debs/net.angelxwind.appsyncunified_100.0_iphoneos-arm.deb
+Size: 58314 
+MD5sum: d9d27173cc6130c5d230851d80ffd618
+SHA1: 56d334823c0dd7ef192a489ea8ec332041ce108a
+SHA256: c560fa196cd3fb244edb72f2a3943c7ead59979c300f9ecdceefc713439a8454
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: NeoStore <golomgang@gmail.com>
+Version: 100.0
+Installed-Size: 732
